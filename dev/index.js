@@ -47,6 +47,22 @@ const constans = {
             point: 90
         },
         {
+            title: 'Javascript',
+            point: 90
+        },
+        {
+            title: 'Typescript',
+            point: 90
+        },
+        {
+            title: 'React JS',
+            point: 95
+        },
+        {
+            title: 'Angular',
+            point: 80
+        },
+        {
             title: 'Linux Server',
             point: 80
         },

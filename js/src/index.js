@@ -47,6 +47,22 @@ const constans = {
             point: 90
         },
         {
+            title: 'Javascript',
+            point: 90
+        },
+        {
+            title: 'Typescript',
+            point: 90
+        },
+        {
+            title: 'React JS',
+            point: 95
+        },
+        {
+            title: 'Angular JS',
+            point: 80
+        },
+        {
             title: 'Linux Server',
             point: 80
         },
@@ -84,6 +100,12 @@ const constans = {
     portfolio: [
         {
             category: 'mobile',
+            img: 'https://iili.io/8sFZNf.png',
+            title: 'Seeds Investing & Social App',
+            desc: 'Seeds is investing apps like stock & crypto, and you can investing together with your friends'
+        },
+        {
+            category: 'mobile',
             img: 'images/pf_hs.png',
             title: 'Home Services App',
             desc: 'Cantik Homeservices Apps is online salon and massage services using react native'
@@ -108,6 +130,12 @@ const constans = {
         },
         {
             category: 'web',
+            img: 'https://iili.io/8slNuj.png',
+            title: 'Sinbad Seller Center',
+            desc: 'Web Apps for CRUD & help customer for manage product'
+        },
+        {
+            category: 'web',
             img: 'images/pf_web_emoji.png',
             title: 'Emoji Apps',
             desc: 'Emoji Apps is web application OCR system for internal usage owned by bca bank'
@@ -127,10 +155,17 @@ const constans = {
     ],
     resume: [
         {
+            title: 'Frontend Developer',
+            subtitle: 'PT Sinbad Karya Perdagangan',
+            icon: 'icon_toolbox_alt',
+            time: 'Juli 2020 - Present (2 Year)',
+            desc: 'Sinbad Seller Center Dashboard for maintenance all product Sinbad partner supplier,like discount, store, warehouse, product, etc Responsibilities: Develop new feature for Sinbad seller center using react js'
+        },
+        {
             title: 'Fullstack developer',
             subtitle: 'Startup weplay.id',
             icon: 'icon_toolbox_alt',
-            time: 'January 2020 - Present (5 months)',
+            time: 'January 2020 - September 2020 (9 months)',
             desc: 'android / ios development using React Native and backend using node js'
         },
         {
