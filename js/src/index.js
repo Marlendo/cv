@@ -130,9 +130,15 @@ const constans = {
         },
         {
             category: 'web',
+            img: 'https://iili.io/iWs6HF.png',
+            title: 'Woowa Whatsapp Unofficial Message',
+            desc: 'Woowa is website unofficial whatsapp admin for controlling your whatsapp account to send broadcast, manage account, create open api whatsapp send message, etc'
+        },
+        {
+            category: 'web',
             img: 'https://iili.io/8slNuj.png',
             title: 'Sinbad Seller Center',
-            desc: 'Web Apps for CRUD & help customer for manage product'
+            desc: 'Sinbad Seller Center Dashboard for maintenance all product Sinbad partner supplier,like discount, store, warehouse, product, etc Responsibilities: Develop new feature for Sinbad seller center using React & Angular'
         },
         {
             category: 'web',
@@ -158,8 +164,8 @@ const constans = {
             title: 'Frontend Developer',
             subtitle: 'PT Sinbad Karya Perdagangan',
             icon: 'icon_toolbox_alt',
-            time: 'Juli 2020 - Present (2 Year)',
-            desc: 'Sinbad Seller Center Dashboard for maintenance all product Sinbad partner supplier,like discount, store, warehouse, product, etc Responsibilities: Develop new feature for Sinbad seller center using react js'
+            time: 'Juli 2020 - Present (2 Year & 2 Month)',
+            desc: 'Sinbad Seller Center Dashboard for maintenance all product Sinbad partner supplier,like discount, store, warehouse, product, etc Responsibilities: Develop new feature for Sinbad seller center using React & Angular'
         },
         {
             title: 'Fullstack developer',
@@ -385,6 +391,10 @@ function buildWhatsapp() {
         </div>
     </div>
     `
+}
+
+function downloadCV(){
+    window.open('https://drive.google.com/file/d/1Fl2CO1C6q4EW9jofnUAa-H3Gq0nnBz3_/view?usp=sharing');
 }
 
 
